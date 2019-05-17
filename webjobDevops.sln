@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webjobDevops", "webjobDevops\webjobDevops.csproj", "{6ED6D6C4-F906-43A0-BA8E-F38F2844CAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ED6D6C4-F906-43A0-BA8E-F38F2844CAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED6D6C4-F906-43A0-BA8E-F38F2844CAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED6D6C4-F906-43A0-BA8E-F38F2844CAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED6D6C4-F906-43A0-BA8E-F38F2844CAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9782CE98-6858-4D01-BC65-30AF55750F71}
+	EndGlobalSection
+EndGlobal
